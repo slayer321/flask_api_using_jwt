@@ -6,7 +6,7 @@ This project is made using **Flask** and **JWT** for authentication and authoriz
 
 ## :wrench: How to Install
 
-`git clone https://github.com/slayer321/flask_api_using_jwt.git`
+`git clone https://github.com/slayer321/flask_api_using_jwt.git` <br>
 `pip install -r requirement.txt`
 
 ## :memo: Working
