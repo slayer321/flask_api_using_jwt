@@ -1,0 +1,8 @@
+flask
+db-sqlite3
+PyJWT
+uuid
+datetime
+functools
+flask_sqlalchemy
+jwt
