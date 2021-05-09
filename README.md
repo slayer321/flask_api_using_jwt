@@ -6,14 +6,14 @@
 
 This project is made using **Flask** and **JWT** for authentication and authorization and testing is done using Postman. To show the working example of this project I have added the **TODO** route so if the user is authorized then he can create his todo list.
 
-#### :wrench: How to Install
+## :wrench: How to Install
 
 ---
 
 `git clone https://github.com/slayer321/flask_api_using_jwt.git`
 `pip install -r requirement.txt`
 
-#### :memo: Working
+## :memo: Working
 
 ---
 
@@ -27,7 +27,7 @@ This project is made using **Flask** and **JWT** for authentication and authoriz
 
 3.This is how we can also perform all the other CRUD operation like **PUT** , **POST** , **DELETE** .
 
-#### :bookmark: Todo route
+## :bookmark: Todo route
 
 ---
 
@@ -35,7 +35,7 @@ Using todo route user can easily make his todo list and it is safe from the mali
 
 ![alt text](/images/todo_route.JPG)
 
-#### :raised_hands: Contributing
+## :raised_hands: Contributing
 
 ---
 
