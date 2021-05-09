@@ -1,4 +1,4 @@
-#<center>Flask API using JWT</center>
+<h1 align="center">Flask API using JWT</h1>
 
 <center>Made with ❤️ using python </center>
 
