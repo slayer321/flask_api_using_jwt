@@ -1,2 +1,2 @@
 # flask_api_using_jwt
-flask API using JWT
+I made a flask API using JWT for authenication and authoization and for testing I have used Postman
