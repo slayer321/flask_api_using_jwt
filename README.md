@@ -2,7 +2,7 @@
 
 <p align="center">Made with ❤️ using python </p>
 
-This project is made using `RESTFul API in Flask` with `JWT` and `Flask-SQLAlchemey` for authentication and authorization and testing is done using Postman. To show the working example of this project I have added the **TODO** route so if the user is authorized then he can create his todo list.
+This project is made using `RESTFul API in Flask` with `JWT` and `Flask-SQLAlchemey` for authentication and authorization and testing is done using Postman. To show the working example of this project I have added the `TODO` route so if the user is authorized then he can create his todo list.
 
 ## :wrench: How to Install
 
